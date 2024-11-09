@@ -126,8 +126,8 @@ export const boardData = {
       cards: [
         {
           id: 9,
-          title: "Data Table Page",
-          description: "Server side Pagination",
+          title: "Real-time Analytics",
+          description: "Integrate Realtime DB to show live user activities on the dashboard.",
         }
       ]
     },
@@ -142,8 +142,8 @@ export const boardData = {
         },
         {
           id: 11,
-          title: "Custom Kanban Board",
-          description: "Setup react-kanban dep within Dashboard as seperate page"
+          title: "Notification System",
+          description: "Build a notification component for real-time updates"
         }
       ]
     },
@@ -153,8 +153,8 @@ export const boardData = {
       cards: [
         {
           id: 12,
-          title: "Vite Server Setup",
-          description: "Configure required modules and starters"
+          title: "Data Table Page",
+          description: "Implement Pagination and Sorting Functionality"
         },
         {
           id: 13,
